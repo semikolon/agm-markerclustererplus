@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      "@agm/js-marker-clusterer@1.0.0-beta.5",
+      "/Users/fredrikbranstrom/Sites/vattenfall-otf-web"
+    ]
+  ],
+  "_from": "@agm/js-marker-clusterer@1.0.0-beta.5",
+  "_id": "@agm/js-marker-clusterer@1.0.0-beta.5",
+  "_inBundle": false,
+  "_integrity": "sha512-KqaAc6hgNWKr8TnmW8dZGQXrWh+OVLMhIa6WHsOTN8v9akRsXUPExI6WTbf/vctfVBPf2euEeyTVUfLq/U1T5A==",
+  "_location": "/@agm/js-marker-clusterer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@agm/js-marker-clusterer@1.0.0-beta.5",
+    "name": "@agm/js-marker-clusterer",
+    "escapedName": "@agm%2fjs-marker-clusterer",
+    "scope": "@agm",
+    "rawSpec": "1.0.0-beta.5",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0-beta.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@agm/js-marker-clusterer/-/js-marker-clusterer-1.0.0-beta.5.tgz",
+  "_spec": "1.0.0-beta.5",
+  "_where": "/Users/fredrikbranstrom/Sites/vattenfall-otf-web",
+  "author": {
+    "name": "Jens Fahnenbruck",
+    "email": "jigfox@me.com"
+  },
+  "bugs": {
+    "url": "https://github.com/SebastianM/angular-google-maps/issues"
+  },
+  "dependencies": {
+    "@google/markerclustererplus": "^2.1.11"
+  },
+  "description": "Angular Google Maps (AGM) extension for js-marker-clusterer support",
+  "homepage": "https://github.com/SebastianM/angular-google-maps#readme",
+  "keywords": [
+    "angular-google-maps",
+    "angular",
+    "js-marker-clusterer",
+    "google-maps",
+    "agm"
+  ],
+  "license": "MIT",
+  "name": "@agm/js-marker-clusterer",
+  "peerDependencies": {
+    "@angular/core": "^5.0.0 || ^6.0.0",
+    "@agm/core": "^1.0.0-beta.3",
+    "@google/markerclustererplus": "^2.1.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianM/angular-google-maps.git"
+  },
+  "version": "1.0.0-beta.5"
+}
