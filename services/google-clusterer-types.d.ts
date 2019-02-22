@@ -28,7 +28,7 @@ export interface MarkerClustererInstance {
     redraw(): void;
     removeMarker(marker: Marker): boolean;
     resetViewport(): void;
-    setCalculator(calculator: CalculateFunction): void;
+    setCalculator?(calculator: CalculateFunction): void;
     setGridSize(size: number): void;
     setMap(map: GoogleMap): void;
     setMaxZoom(maxZoom: number): void;
