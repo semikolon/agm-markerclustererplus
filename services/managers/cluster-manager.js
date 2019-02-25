@@ -9,7 +9,7 @@ var __extends = (this && this.__extends) || (function () {
     };
 })();
 import { Injectable, NgZone } from '@angular/core';
-import MarkerClusterer from '@google/markerclustererplus';
+import * as MarkerClusterer from '@google/markerclustererplus';
 import { MarkerManager } from '../../../@agm/core/services/managers/marker-manager';
 import { GoogleMapsAPIWrapper } from '../../../@agm/core/services/google-maps-api-wrapper';
 var ClusterManager = /** @class */ (function (_super) {
