@@ -6,9 +6,7 @@
   "bugs": {
     "url": "https://github.com/SebastianM/angular-google-maps/issues"
   },
-  "dependencies": {
-    "@google/markerclustererplus": "^2.1.11"
-  },
+  "dependencies": {},
   "description": "Angular Google Maps (AGM) extension for js-marker-clusterer support",
   "homepage": "https://github.com/semikolon/agm-markerclustererplus",
   "keywords": [
